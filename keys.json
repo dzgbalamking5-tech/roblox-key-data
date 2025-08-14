@@ -1,17 +1,1 @@
-[
-  {
-    "key": "ya8W8CQzikYC",
-    "expires": "inf",
-    "hwid": null
-  },
-  {
-    "key": "iBcpjYeDO7fr",
-    "expires": "inf",
-    "hwid": null
-  },
-  {
-    "key": "Hg9NmLBVhjKc",
-    "expires": "inf",
-    "hwid": null
-  }
-]
+[{"expires":"inf","key":"KbNq927uZjE4","hwid":"Delta-1.2.684.688-dfdb87a3-8fa1-45ea-9a23-d589a610093a"},{"expires":"inf","key":"npB40YQCKtBp","hwid":"Delta-1.2.684.688-dfdb87a3-8fa1-45ea-9a23-d589a610093a"},{"expires":"inf","key":"cK6d5bliYJJy","hwid":"Delta-1.2.684.688-dfdb87a3-8fa1-45ea-9a23-d589a610093a"}]
