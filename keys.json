@@ -1,11 +1,1 @@
-[
-  {
-    "expires": "inf",
-    "key": "jGyMhjjroqC5",
-    "hwid": "Delta-1.2.684.688-dfdb87a3-8fa1-45ea-9a23-d589a610093a"
-  },
-  {
-    "expires": 1755185958,
-    "key": "u2e0xBpcr1Zt"
-  }
-]
+[{"expires":"inf","key":"jGyMhjjroqC5"},{"expires":1755184276,"key":"u2e0xBpcr1Zt","hwid":"Delta-1.2.684.688-dfdb87a3-8fa1-45ea-9a23-d589a610093a"}]
