@@ -7,5 +7,15 @@
       "Delta-1.2.684.688-dfdb87a3-8fa1-45ea-9a23-d589a610093a",
       "Delta-1.2.684.688-28e6405e-7009-4376-b56b-182b7361bcf8"
     ]
+  },
+  {
+    "expires": "inf",
+    "maxDevices": 1,
+    "key": "abI984yFr8bL",
+    "hwids": [
+      "Delta-1.2.684.688-dfdb87a3-8fa1-45ea-9a23-d589a610093a"
+    ],
+    "createdAt": 1755240357,
+    "notifiedExpired": false
   }
 ]
