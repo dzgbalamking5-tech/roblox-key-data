@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "code": "chGjAN8ak88gPhqG48tC",
+    "type": "lifetime",
+    "maxDevices": 1,
+    "usesRemaining": 1,
+    "createdBy": "1326394630769475607",
+    "createdAt": 1755267058
+  }
+]
