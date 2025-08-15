@@ -38,5 +38,11 @@
     "expires": 1755233549,
     "hwids": [],
     "maxDevices": 10
+  },
+  {
+    "key": "KvsS9J9EvNKid2aXvbHEdDxG",
+    "expires": 1755233592,
+    "hwids": [],
+    "maxDevices": 100
   }
 ]
