@@ -1,13 +1,5 @@
 [
   {
-    "expires": 1755234527,
-    "maxDevices": 10,
-    "key": "d7Rh9b3L5TZ8gMn6mQHgvmUe",
-    "hwids": [],
-    "createdAt": 1755240357,
-    "notifiedExpired": false
-  },
-  {
     "expires": 1755233592,
     "maxDevices": 100,
     "key": "KvsS9J9EvNKid2aXvbHEdDxG",
