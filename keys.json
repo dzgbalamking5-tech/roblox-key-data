@@ -4,14 +4,16 @@
     "maxDevices": 1,
     "key": "3Rx3UDEinVu5",
     "hwids": [],
-    "createdAt": 1755240357
+    "createdAt": 1755240357,
+    "notifiedExpired": false
   },
   {
     "expires": 1755193423,
     "maxDevices": 1,
     "key": "GkY8IMTtLhfl",
     "hwids": [],
-    "createdAt": 1755240357
+    "createdAt": 1755240357,
+    "notifiedExpired": false
   },
   {
     "expires": "inf",
@@ -20,28 +22,32 @@
     "hwids": [
       "Delta-1.2.684.688-dfdb87a3-8fa1-45ea-9a23-d589a610093a"
     ],
-    "createdAt": 1755240357
+    "createdAt": 1755240357,
+    "notifiedExpired": false
   },
   {
     "expires": 1755234527,
     "maxDevices": 10,
     "key": "d7Rh9b3L5TZ8gMn6mQHgvmUe",
     "hwids": [],
-    "createdAt": 1755240357
+    "createdAt": 1755240357,
+    "notifiedExpired": false
   },
   {
     "expires": 1755233549,
     "maxDevices": 10,
     "key": "CMnkdeuzqr5NPwTigNkR3XDk",
     "hwids": [],
-    "createdAt": 1755240357
+    "createdAt": 1755240357,
+    "notifiedExpired": false
   },
   {
     "expires": 1755233592,
     "maxDevices": 100,
     "key": "KvsS9J9EvNKid2aXvbHEdDxG",
     "hwids": [],
-    "createdAt": 1755240357
+    "createdAt": 1755240357,
+    "notifiedExpired": false
   },
   {
     "key": "nCKnAWwYrHVdTRpe8ZDZETa6",
@@ -50,6 +56,7 @@
     "maxDevices": 1,
     "owner": "1326394630769475607",
     "createdAt": 1755240500,
-    "guildId": "879656744802983956"
+    "guildId": "879656744802983956",
+    "notifiedExpired": false
   }
 ]
