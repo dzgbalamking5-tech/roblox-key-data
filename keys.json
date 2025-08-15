@@ -19,5 +19,15 @@
     ],
     "createdAt": 1755267095,
     "notifiedExpired": false
+  },
+  {
+    "expires": "inf",
+    "maxDevices": 1,
+    "key": "abI984yFr8bL",
+    "hwids": [
+      "Delta-1.2.684.688-dfdb87a3-8fa1-45ea-9a23-d589a610093a"
+    ],
+    "createdAt": 1755240357,
+    "notifiedExpired": false
   }
 ]
