@@ -8,5 +8,16 @@
     "createdAt": 1755267068,
     "guildId": "879656744802983956",
     "notifiedExpired": false
+  },
+  {
+    "expires": "inf",
+    "maxDevices": 2,
+    "key": "wsayjCPMBjpXnv8skvsihJpD",
+    "hwids": [
+      "Delta-1.2.684.688-dfdb87a3-8fa1-45ea-9a23-d589a610093a",
+      "Delta-1.2.684.688-28e6405e-7009-4376-b56b-182b7361bcf8"
+    ],
+    "createdAt": 1755267095,
+    "notifiedExpired": false
   }
 ]
