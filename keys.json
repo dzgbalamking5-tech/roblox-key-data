@@ -42,5 +42,14 @@
     "key": "KvsS9J9EvNKid2aXvbHEdDxG",
     "hwids": [],
     "createdAt": 1755240357
+  },
+  {
+    "key": "nCKnAWwYrHVdTRpe8ZDZETa6",
+    "expires": "inf",
+    "hwids": [],
+    "maxDevices": 1,
+    "owner": "1326394630769475607",
+    "createdAt": 1755240500,
+    "guildId": "879656744802983956"
   }
 ]
