@@ -3,13 +3,15 @@
     "expires": 1755198298,
     "maxDevices": 1,
     "key": "3Rx3UDEinVu5",
-    "hwids": []
+    "hwids": [],
+    "createdAt": 1755240357
   },
   {
     "expires": 1755193423,
     "maxDevices": 1,
     "key": "GkY8IMTtLhfl",
-    "hwids": []
+    "hwids": [],
+    "createdAt": 1755240357
   },
   {
     "expires": "inf",
@@ -17,24 +19,28 @@
     "key": "abI984yFr8bL",
     "hwids": [
       "Delta-1.2.684.688-dfdb87a3-8fa1-45ea-9a23-d589a610093a"
-    ]
+    ],
+    "createdAt": 1755240357
   },
   {
     "expires": 1755234527,
     "maxDevices": 10,
     "key": "d7Rh9b3L5TZ8gMn6mQHgvmUe",
-    "hwids": []
+    "hwids": [],
+    "createdAt": 1755240357
   },
   {
     "expires": 1755233549,
     "maxDevices": 10,
     "key": "CMnkdeuzqr5NPwTigNkR3XDk",
-    "hwids": []
+    "hwids": [],
+    "createdAt": 1755240357
   },
   {
     "expires": 1755233592,
     "maxDevices": 100,
     "key": "KvsS9J9EvNKid2aXvbHEdDxG",
-    "hwids": []
+    "hwids": [],
+    "createdAt": 1755240357
   }
 ]
