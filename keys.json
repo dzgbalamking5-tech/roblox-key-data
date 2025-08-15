@@ -1,1 +1,40 @@
-[{"expires":1755198298,"maxDevices":1,"key":"3Rx3UDEinVu5","hwids":[]},{"expires":1755193423,"maxDevices":1,"key":"GkY8IMTtLhfl","hwids":[]},{"expires":"inf","maxDevices":1,"key":"abI984yFr8bL","hwids":["Delta-1.2.684.688-dfdb87a3-8fa1-45ea-9a23-d589a610093a"]},{"expires":1755234527,"maxDevices":10,"key":"d7Rh9b3L5TZ8gMn6mQHgvmUe","hwids":[]},{"expires":1755233549,"maxDevices":10,"key":"CMnkdeuzqr5NPwTigNkR3XDk","hwids":[]},{"expires":1755233592,"maxDevices":100,"key":"KvsS9J9EvNKid2aXvbHEdDxG","hwids":[]},{"expires":"inf","maxDevices":2,"key":"wsayjCPMBjpXnv8skvsihJpD","hwids":["Delta-1.2.684.688-dfdb87a3-8fa1-45ea-9a23-d589a610093a","Delta-1.2.684.688-28e6405e-7009-4376-b56b-182b7361bcf8"]}]
+[
+  {
+    "expires": 1755198298,
+    "maxDevices": 1,
+    "key": "3Rx3UDEinVu5",
+    "hwids": []
+  },
+  {
+    "expires": 1755193423,
+    "maxDevices": 1,
+    "key": "GkY8IMTtLhfl",
+    "hwids": []
+  },
+  {
+    "expires": "inf",
+    "maxDevices": 1,
+    "key": "abI984yFr8bL",
+    "hwids": [
+      "Delta-1.2.684.688-dfdb87a3-8fa1-45ea-9a23-d589a610093a"
+    ]
+  },
+  {
+    "expires": 1755234527,
+    "maxDevices": 10,
+    "key": "d7Rh9b3L5TZ8gMn6mQHgvmUe",
+    "hwids": []
+  },
+  {
+    "expires": 1755233549,
+    "maxDevices": 10,
+    "key": "CMnkdeuzqr5NPwTigNkR3XDk",
+    "hwids": []
+  },
+  {
+    "expires": 1755233592,
+    "maxDevices": 100,
+    "key": "KvsS9J9EvNKid2aXvbHEdDxG",
+    "hwids": []
+  }
+]
