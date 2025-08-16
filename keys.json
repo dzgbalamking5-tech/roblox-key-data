@@ -48,5 +48,15 @@
     "createdAt": 1755348193,
     "guildId": "879656744802983956",
     "notifiedExpired": true
+  },
+  {
+    "key": "7zWz6mFa5iUb2QxWY8w6XKbv",
+    "expires": 1755348953,
+    "hwids": [],
+    "maxDevices": 10,
+    "owner": "1326394630769475607",
+    "createdAt": 1755348952,
+    "guildId": "879656744802983956",
+    "notifiedExpired": false
   }
 ]
