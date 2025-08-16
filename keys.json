@@ -1,1 +1,24 @@
-[{"expires":"inf","createdAt":1755267068,"key":"nWZTfeEa5PR8KQTR3m4z2eq2","notifiedExpired":false,"maxDevices":1,"owner":"1326394630769475607","guildId":"879656744802983956","hwids":["Delta-1.2.684.688-dfdb87a3-8fa1-45ea-9a23-d589a610093a"]}]
+[
+  {
+    "expires": "inf",
+    "createdAt": 1755267068,
+    "key": "nWZTfeEa5PR8KQTR3m4z2eq2",
+    "notifiedExpired": false,
+    "maxDevices": 1,
+    "owner": "1326394630769475607",
+    "guildId": "879656744802983956",
+    "hwids": [
+      "Delta-1.2.684.688-dfdb87a3-8fa1-45ea-9a23-d589a610093a"
+    ]
+  },
+  {
+    "key": "qKCLsQFf2mj4eYFTQgdARuMb",
+    "expires": 1755326027,
+    "hwids": [],
+    "maxDevices": 1,
+    "owner": "1326394630769475607",
+    "createdAt": 1755317027,
+    "guildId": "879656744802983956",
+    "notifiedExpired": false
+  }
+]
