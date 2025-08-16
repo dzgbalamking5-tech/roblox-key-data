@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "key": "NkNMWDWEDdqCwWQBEn7Q7w4P",
+    "expires": 1755339713,
+    "hwids": [],
+    "maxDevices": 1,
+    "owner": null,
+    "createdAt": 1755339613,
+    "guildId": "879656744802983956",
+    "notifiedExpired": false
+  }
+]
