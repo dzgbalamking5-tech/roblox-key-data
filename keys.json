@@ -1,1 +1,70 @@
-[{"expires":1755339713,"createdAt":1755339613,"key":"NkNMWDWEDdqCwWQBEn7Q7w4P","maxDevices":1,"notifiedExpired":false,"guildId":"879656744802983956","hwids":[]},{"expires":1755344695,"createdAt":1755344695,"key":"umWpum9gnxweUQc6apeiACHt","maxDevices":1,"notifiedExpired":false,"guildId":"879656744802983956","hwids":[]},{"expires":"inf","createdAt":1755344800,"key":"Sk2t8VmGf8X9dVp3h6LxxbRF","maxDevices":1,"notifiedExpired":false,"guildId":"879656744802983956","hwids":["Delta-1.2.684.688-dfdb87a3-8fa1-45ea-9a23-d589a610093a"]},{"expires":"inf","createdAt":1755347778,"key":"U943ceFwqjniNSTjmhYKqLcE","maxDevices":1,"notifiedExpired":false,"guildId":"879656744802983956","hwids":[]},{"expires":1755348293,"createdAt":1755348193,"key":"9H6CuuwKuYgYzhwKLRp3pGLr","notifiedExpired":true,"maxDevices":1,"owner":"1326394630769475607","guildId":"879656744802983956","hwids":[]},{"expires":1755348953,"createdAt":1755348952,"key":"7zWz6mFa5iUb2QxWY8w6XKbv","notifiedExpired":true,"maxDevices":10,"owner":"1326394630769475607","guildId":"879656744802983956","hwids":[]},{"expires":1755349039,"createdAt":1755349038,"key":"dLQeGGLeuyCBiJjDeuSY8nyf","notifiedExpired":true,"maxDevices":10,"owner":"1326394630769475607","guildId":"879656744802983956","hwids":[]},{"expires":1755349376,"createdAt":1755349375,"key":"eNca8x5h5qFmkxf2RZgWHtSJ","notifiedExpired":true,"maxDevices":10,"owner":"1326394630769475607","guildId":"879656744802983956","hwids":[]}]
+[
+  {
+    "expires": 1755339713,
+    "createdAt": 1755339613,
+    "key": "NkNMWDWEDdqCwWQBEn7Q7w4P",
+    "maxDevices": 1,
+    "notifiedExpired": false,
+    "guildId": "879656744802983956",
+    "hwids": []
+  },
+  {
+    "expires": 1755344695,
+    "createdAt": 1755344695,
+    "key": "umWpum9gnxweUQc6apeiACHt",
+    "maxDevices": 1,
+    "notifiedExpired": false,
+    "guildId": "879656744802983956",
+    "hwids": []
+  },
+  {
+    "expires": "inf",
+    "createdAt": 1755344800,
+    "key": "Sk2t8VmGf8X9dVp3h6LxxbRF",
+    "maxDevices": 1,
+    "notifiedExpired": false,
+    "guildId": "879656744802983956",
+    "hwids": [
+      "Delta-1.2.684.688-dfdb87a3-8fa1-45ea-9a23-d589a610093a"
+    ]
+  },
+  {
+    "expires": "inf",
+    "createdAt": 1755347778,
+    "key": "U943ceFwqjniNSTjmhYKqLcE",
+    "maxDevices": 1,
+    "notifiedExpired": false,
+    "guildId": "879656744802983956",
+    "hwids": []
+  },
+  {
+    "expires": 1755348293,
+    "createdAt": 1755348193,
+    "key": "9H6CuuwKuYgYzhwKLRp3pGLr",
+    "notifiedExpired": true,
+    "maxDevices": 1,
+    "owner": "1326394630769475607",
+    "guildId": "879656744802983956",
+    "hwids": []
+  },
+  {
+    "expires": 1755348953,
+    "createdAt": 1755348952,
+    "key": "7zWz6mFa5iUb2QxWY8w6XKbv",
+    "notifiedExpired": true,
+    "maxDevices": 10,
+    "owner": "1326394630769475607",
+    "guildId": "879656744802983956",
+    "hwids": []
+  },
+  {
+    "expires": 1755349039,
+    "createdAt": 1755349038,
+    "key": "dLQeGGLeuyCBiJjDeuSY8nyf",
+    "notifiedExpired": true,
+    "maxDevices": 10,
+    "owner": "1326394630769475607",
+    "guildId": "879656744802983956",
+    "hwids": []
+  }
+]
