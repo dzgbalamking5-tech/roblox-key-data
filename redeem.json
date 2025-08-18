@@ -133,5 +133,14 @@
     "usesRemaining": 1,
     "createdBy": "1378289567156670536",
     "createdAt": 1755329786
+  },
+  {
+    "code": "dL535N7dvXPJw7YN4Kxg",
+    "type": "duration",
+    "durationSec": 120,
+    "maxDevices": 1,
+    "usesRemaining": 1,
+    "createdBy": "745935275737350155",
+    "createdAt": 1755528556
   }
 ]
