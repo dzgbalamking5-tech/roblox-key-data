@@ -141,5 +141,13 @@
     "usesRemaining": 1,
     "createdBy": "1378289567156670536",
     "createdAt": 1755329786
+  },
+  {
+    "code": "wa4ASfeEDVVKvKFaYL3D",
+    "type": "lifetime",
+    "maxDevices": 1,
+    "usesRemaining": 1,
+    "createdBy": "1326394630769475607",
+    "createdAt": 1755522916
   }
 ]
