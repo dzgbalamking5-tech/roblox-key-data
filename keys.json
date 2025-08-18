@@ -10,5 +10,15 @@
     "hwids": [
       "Delta-1.2.684.688-dfdb87a3-8fa1-45ea-9a23-d589a610093a"
     ]
+  },
+  {
+    "key": "yTmJxxMsyPT9xLfqk6dPeL3h",
+    "expires": 1755543051,
+    "hwids": [],
+    "maxDevices": 1,
+    "owner": "745935275737350155",
+    "createdAt": 1755537051,
+    "guildId": "767304751683076146",
+    "notifiedExpired": false
   }
 ]
