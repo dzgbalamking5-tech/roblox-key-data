@@ -1,14 +1,1 @@
-[
-  {
-    "key": "2ua95ijghfNnqrp87LGKxbsk",
-    "expires": null,
-    "durationSec": 3600,
-    "activatedAt": null,
-    "hwids": [],
-    "maxDevices": 1,
-    "owner": "745935275737350155",
-    "createdAt": 1755572353,
-    "guildId": "767304751683076146",
-    "notifiedExpired": false
-  }
-]
+[{"maxDevices":1,"owner":"745935275737350155","notifiedExpired":false,"guildId":"767304751683076146","createdAt":1755572353,"key":"2ua95ijghfNnqrp87LGKxbsk","activatedAt":1755572403,"expires":1755576003,"durationSec":3600,"hwids":[]}]
