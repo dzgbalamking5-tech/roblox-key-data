@@ -8,5 +8,17 @@
     "createdAt": 1755571701,
     "guildId": "767304751683076146",
     "notifiedExpired": false
+  },
+  {
+    "key": "rmdACQAaTyhHrpvFKwrJnrrU",
+    "expires": null,
+    "durationSec": 3600,
+    "activatedAt": null,
+    "hwids": [],
+    "maxDevices": 1,
+    "owner": null,
+    "createdAt": 1755571816,
+    "guildId": "767304751683076146",
+    "notifiedExpired": false
   }
 ]
