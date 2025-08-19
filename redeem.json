@@ -77,14 +77,5 @@
     "usesRemaining": 1,
     "createdBy": "1378289567156670536",
     "createdAt": 1755329786
-  },
-  {
-    "code": "8ZiTbfiJsta9CvnjwJ9R",
-    "type": "duration",
-    "durationSec": 3600,
-    "maxDevices": 1,
-    "usesRemaining": 1,
-    "createdBy": "745935275737350155",
-    "createdAt": 1755572338
   }
 ]
